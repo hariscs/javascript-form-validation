@@ -65,8 +65,8 @@ input {
 	border-color: green;
 }
 
-.errorName,
-.errorEmail,
-.errorPassword {
+.nameError,
+.emailError,
+.passwordError {
 	color: crimson;
 }
